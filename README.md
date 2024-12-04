@@ -43,7 +43,7 @@ npx playwright test rtCamp.spec.js --headed --video=on
 **Test File Details**
 File Name: rtCamp.spec.js
 Purpose: Automates Assignment 2 scenarios.
-Prerequisites: Review Assignment 1 Document for detailed test case design and implementation background.
+
 
 **Video Recording**
 The test run with video recording is available at the following link:
